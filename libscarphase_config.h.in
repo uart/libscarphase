@@ -1,0 +1,3 @@
+// The configured options and settings for libscarphase
+#define LIB_SCARPHASE_VERSION_MAJOR @LIB_SCARPHASE_VERSION_MAJOR@
+#define LIB_SCARPHASE_VERSION_MINOR @LIB_SCARPHASE_VERSION_MINOR@
