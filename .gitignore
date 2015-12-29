@@ -1,0 +1,11 @@
+#Cmake
+CMakeFiles/
+Makefile
+*.cmake
+libscarphase_config.h
+
+#built libraries
+lib/
+
+#Doxygen
+Doxyfile

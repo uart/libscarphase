@@ -31,6 +31,7 @@
  *
  */
 
+#include <iostream>
 #include "scarphase.h"
 #include "scarphase/scarphase_perfevent.h"
 
